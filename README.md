@@ -1,3 +1,5 @@
+![Alt Text](assets/machine_learning.png)
+
 # Mobile carrier Megaline
 
 ## Overview
